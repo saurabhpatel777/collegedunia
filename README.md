@@ -1,4 +1,4 @@
-# Pagination Demo
+# Demo
 Test project for collegedunia interview.
 
 ## Task
